@@ -98,7 +98,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["tertech.eu.org"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["a3600239.x3322.net"];
 pub const RS_PUB_KEY: &str = "6+0kDKtB4d0El4wkyDM4ZcHN8W70eDJN2qGNZ528VJ4=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
